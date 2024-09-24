@@ -35,5 +35,8 @@ Test mentioned in repo has version issue with tesseract as it was not supporting
 ```
 python test.py
 ```
-
+Docker image for the code :
+```
+docker pull shramadeepd/flask-ocr-app:v1.0
+```
 
