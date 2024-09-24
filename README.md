@@ -27,6 +27,8 @@ Start the frontend in a new terminal :
 ```
 streamlit run streamlit.py
 ```
+In the streamlit app the image can be directly uploaded and then the api can be choosen and the response is shown back 
+
 Test that i have written using pytest :
 ```
 python test_self.py
