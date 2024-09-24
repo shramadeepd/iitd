@@ -31,7 +31,7 @@ In the streamlit app the image can be directly uploaded and then the api can be 
 
 Test that i have written using pytest :
 ```
-python test_self.py
+pytest tests_self.py
 ```
 Test mentioned in repo has version issue with tesseract as it was not supporting the python3 so ihave implemented the test with pytesseract and tried to achieve the same output :
 ```
