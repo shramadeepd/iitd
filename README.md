@@ -19,8 +19,10 @@ pip install -r requirements.txt
 ```
 Start the server :
 ```
-python tesseract.py
+python app.py
 ```
+app.py is the main server file , that contains all the apis 
+
 Start the frontend in a new terminal :
 ```
 streamlit run streamlit.py
